@@ -20,13 +20,13 @@ Criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta banc�
 Criar funções para as operações: criar usuário e criar conta corrente, deixando o código mais modularizado.
 
  ###    ================ MENU ================
- ###   [d]\tDepositar
- ###   [s]\tSacar
- ###   [e]\tExtrato
- ###   [nc]\tNova conta
- ###   [nu]\tNovo usuário
- ###   [lc]\tListar contas
- ###   [q]\tSair
+ ###   [d]  Depositar
+ ###   [s]  Sacar
+ ###   [e]  Extrato
+ ###   [nc] Nova conta
+ ###   [nu] Novo usuário
+ ###   [lc] Listar contas
+ ###   [q]  Sair
  
 
 
